@@ -1,5 +1,7 @@
 disableKinds = ["RSS"]
 baseURL = "https://cbl-website.onrender.com"
+relativeURLs = true
+canonifyURLs = true
 languageCode = "en"
 title = "Computational and Biological Learning Lab"
 config = "config.toml"
